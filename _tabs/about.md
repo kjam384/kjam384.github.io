@@ -1,5 +1,5 @@
 ---
-title: About
+title: Keegan James
 icon: fas fa-info-circle
 order: 4
 ---
